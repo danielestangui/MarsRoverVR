@@ -1,0 +1,11 @@
+#p-length: 10.20665454864502
+#h-change: 0
+#v-expans: 11
+#cpu-time: 5.0
+#beta-avg: 0.0
+#degrees : 0.0
+#nº-steps: 2
+
+PATH:
+1500 1450 1160.1617
+1500 1460 1158.3016
